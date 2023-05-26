@@ -1,5 +1,5 @@
 // All elements needed
-const baseURL = 'https://alexrak2.github.io./';
+const baseURL = 'http://localhost:3000/';
 
 const container = document.getElementById("simulation-container");
 const waterLevel = document.getElementById("water-level");
