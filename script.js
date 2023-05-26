@@ -1,5 +1,5 @@
 // All elements needed
-const baseURL = 'http://localhost:3000/';
+const baseURL = 'https://spi-nodejs.onrender.com/';
 
 const container = document.getElementById("simulation-container");
 const waterLevel = document.getElementById("water-level");
